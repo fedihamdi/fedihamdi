@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!-- // three.js - https://github.com/mrdoob/three.js
+var THREE=THREE||{REVISION:"56"} -->
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head.html" . }}
+  <script  src="themes\KeepIt\layouts\_default\script.js"></script>
+  <body class="">
+    {{ partial "body.html" . }}
+    <canvas> </canvas>
+    <div class="wrapper">
+        {{ partial "header.html" . }}
+    	 <main class="main">
+          <div class="container">
+      		{{ block "content" . }}{{ end }}
+          </div>
+		   </main>
+      {{ partial "footer.html" . }}
+      
+     </div>
+  </body>
+</html>

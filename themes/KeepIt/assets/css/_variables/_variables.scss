@@ -1,0 +1,45 @@
+// ==============================
+// Custom style
+// ==============================
+// You can override the variables in _variables.scss to customize the style
+/** light theme **/
+
+/***********************************************************/
+$light-background-color: #292a2d;
+
+$light-font-color: #b8b8c2;
+$light-font-secondary-color: #83888d;
+
+$light-navbar-active-color: #fff;
+
+$light-global-link-color: #fff;
+$light-global-link-hover-color:#69c9fdfd;
+
+$light-post-link-color: #2d96bd;
+$light-post-link-hover-color:rgb(83, 238, 243);
+
+$light-pagination-link-color : #2d96bd;
+$light-pagination-link-active-color: #fff;
+
+$light-border-color: #4a4b50;
+
+
+
+/** dark theme **/
+$dark-background-color: #292a2d;
+
+$dark-font-color: #a9a9b3;
+$dark-font-secondary-color: #87878d;
+
+$dark-navbar-active-color: #fff;
+
+$dark-global-link-color: #a9a9b3;
+$dark-global-link-hover-color:#fff;
+
+$dark-post-link-color: #eee;
+$dark-post-link-hover-color:#fff;
+
+$dark-pagination-link-color : #a9a9b3;
+$dark-pagination-link-active-color: #fff;
+
+$dark-border-color: #4a4b50;

@@ -1,0 +1,66 @@
+  
+  /** Home **/
+  
+  .intro {
+    transform: translateY(25vh);
+    text-align: center;
+    .avatar {
+      padding: 10px;
+      img {
+        width: 167px;
+        height: auto;
+        display: inline-block;
+        -webkit-border-radius: 100%;
+        border-radius: 100%;
+        -webkit-box-shadow: 0 0 0 0.3618em rgba(180, 175, 175, 0.445);
+        box-shadow: 0 0 0 0.3618em rgba(59, 59, 59, 0.959);
+        margin: 0 auto;
+        -webkit-transition: all ease 0.4s;
+        -moz-transition: all ease 0.4s;
+        -o-transition: all ease 0.4s;
+        transition: all ease 0.4s;
+        cursor: pointer;
+        &:hover {
+          position: relative;
+          -webkit-transform: translateY(-0.55em);
+          -moz-transform: translateY(-0.55em);
+          -ms-transform: translateY(-0.55em);
+          -o-transform: translateY(-0.55em);
+          transform: translateY(-0.55em);
+          cursor: pointer;
+        }
+      }
+    }
+  }
+  
+  h2.description {
+    font-size: 1em;
+    font-weight: normal;
+    padding: 5px;
+  }
+  
+  .social-links {
+    a {
+    
+      padding: 0 5px;
+      &:hover {
+       
+        background-color: transparent;
+      }
+    }
+    .iconfont {
+      font-size: 2em;
+    }
+  }
+  canvas.backgroundsketch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  
+    z-index: -1;
+  }
