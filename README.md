@@ -35,5 +35,6 @@
 ## keep it cool and give a star if you like something :ok_hand: 🧠
 
 
- <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fedi-hamdi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/fedi-hamdi?trk=profile-badge">Fedi Hamdi</a></div>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fedi-hamdi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/fedi-hamdi?trk=profile-badge">Fedi Hamdi</a></div>
+              
               
