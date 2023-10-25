@@ -29,12 +29,13 @@
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Elastic](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label=)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- 
- 
+
+ > # Deployed Apps: 
+___
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee9fe6c-35a8-464d-bcb3-b6c4c9a03b50/deploy-status)](https://app.netlify.com/sites/fedisentimentapp/deploys)
  
 ## keep it cool and give a star if you like something :ok_hand: 🧠
 
 <!---#<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 #<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fedi-hamdi" data-version="v1"><a #class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/fedi-hamdi?trk=profile-badge">Fedi Hamdi</a></div>--->
-              
               
