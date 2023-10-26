@@ -39,6 +39,7 @@ ___
 [![Docker workflow](https://github.com/fedihamdi/meteodata/actions/workflows/docker-image.yml/badge.svg)](https://github.com/fedihamdi/meteodata/actions/workflows/docker-image.yml)
 [![Code Quality](https://github.com/fedihamdi/meteodata/actions/workflows/pylint.yml/badge.svg)](https://github.com/fedihamdi/meteodata/actions/workflows/pylint.yml)
 [![Django CI](https://github.com/fedihamdi/meteodata/actions/workflows/django.yml/badge.svg)](https://github.com/fedihamdi/meteodata/actions/workflows/django.yml)
+[![Deploy ML-API](https://github.com/fedihamdi/deeplearning-flask-react-app/actions/workflows/render.yml/badge.svg)](https://github.com/fedihamdi/deeplearning-flask-react-app/actions/workflows/render.yml)
  
 ## keep it cool and give a star if you like something :ok_hand: 🧠
 
