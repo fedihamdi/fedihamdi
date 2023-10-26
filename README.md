@@ -36,8 +36,8 @@ ___
 
  > # Ongoing Devs:
 ___
-![Docker workflow](https://github.com/fedihamdi/meteodata/actions/workflows/docker-image.yml/badge.svg)
-![Quality workflow](https://github.com/fedihamdi/meteodata/actions/workflows/pylint.yml/badge.svg)
+[![Docker workflow](https://github.com/fedihamdi/meteodata/actions/workflows/docker-image.yml/badge.svg)](https://github.com/fedihamdi/meteodata/actions/workflows/docker-image.yml)
+[![Code Quality](https://github.com/fedihamdi/meteodata/actions/workflows/pylint.yml/badge.svg)](https://github.com/fedihamdi/meteodata/actions/workflows/pylint.yml)
 [![Django CI](https://github.com/fedihamdi/meteodata/actions/workflows/django.yml/badge.svg)](https://github.com/fedihamdi/meteodata/actions/workflows/django.yml)
  
 ## keep it cool and give a star if you like something :ok_hand: 🧠
