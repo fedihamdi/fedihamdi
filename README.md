@@ -33,7 +33,6 @@
  > # Deployed Apps: 
 ___
  [![Netlify Status](https://api.netlify.com/api/v1/badges/1ee9fe6c-35a8-464d-bcb3-b6c4c9a03b50/deploy-status)](https://app.netlify.com/sites/fedisentimentapp/deploys)
- [![Build and Deploy Portfolio](https://github.com/fedihamdi/WGP/actions/workflows/deploy%20CI.yml/badge.svg?branch=CICD)](https://github.com/fedihamdi/WGP/actions/workflows/deploy%20CI.yml)
 
  > # Ongoing Devs:
 ___
