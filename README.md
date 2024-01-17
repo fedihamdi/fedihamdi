@@ -4,7 +4,7 @@
 # Hey there my name is Fedi Hamdi :wave: [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
  
  
-### ✨ I am a statistician (engineer) with minor studies in life insurance (life actuarial) and I am currently pursuing a master's degree in data science and artificial intelligence.🔭 
+### ✨ I am a statistician (engineer) with minor studies in life insurance (life actuarial) and a master's degree in data science and artificial intelligence.🔭 
  
   I really love working and coding with
  
