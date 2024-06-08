@@ -49,7 +49,7 @@ ___
  > # 🏆 Achievements and Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=fedihamdi&theme=gruvbox&column=10&no-frame=true)](https://github.com/fedihamdi/)
 
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=fedihamdi&count_private=true&include_all_commits=true&show_icons=true" />
+  <img height="170" align="left" src="https://stats-fedi.vercel.app/api?username=fedihamdi&count_private=true&include_all_commits=true&show_icons=true" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedihamdi&layout=compact&hide=html,css,scss,jupyter%20notebook,javascript" />
+<img src="https://stats-fedi.vercel.app/api/top-langs/?username=fedihamdi&layout=compact&hide=html,css,scss,jupyter%20notebook,javascript" />
