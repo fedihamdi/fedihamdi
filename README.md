@@ -45,4 +45,6 @@ ___
 
 <!---#<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 #<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fedi-hamdi" data-version="v1"><a #class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/fedi-hamdi?trk=profile-badge">Fedi Hamdi</a></div>--->
-              
+
+ > # Achievements:
+[![trophy](https://github-profile-trophy.vercel.app/?username=fedihamdi&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
