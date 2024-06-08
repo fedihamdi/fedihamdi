@@ -47,7 +47,7 @@ ___
 #<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fedi-hamdi" data-version="v1"><a #class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/fedi-hamdi?trk=profile-badge">Fedi Hamdi</a></div>--->
 
  > # 🏆 Achievements and Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=fedihamdi&theme=gruvbox&column=10&no-frame=true)](https://github.com/fedihamdi/)
+[![trophy](https://trophy-fedi.vercel.app/?username=fedihamdi&theme=gruvbox&column=10&no-frame=true)](https://github.com/fedihamdi/)
 
   <img height="170" align="left" src="https://stats-fedi.vercel.app/api?username=fedihamdi&count_private=true&include_all_commits=true&show_icons=true" />
 
